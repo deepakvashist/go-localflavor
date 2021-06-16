@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://www.github.com/deepakvashist/go-localflavor/compare/v1.1.0...v1.2.0) (2021-06-16)
+
+
+### Features
+
+* add brazil cep validation ([7790371](https://www.github.com/deepakvashist/go-localflavor/commit/77903716772e78737f7ffceb2a5b256376c74741))
+
 ## [1.1.0](https://www.github.com/deepakvashist/go-localflavor/compare/v1.0.0...v1.1.0) (2021-06-16)
 
 
